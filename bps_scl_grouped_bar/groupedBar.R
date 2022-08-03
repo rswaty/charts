@@ -1,4 +1,9 @@
-## grouped bar
+# ---
+# title: grouped bar - succession classes past and present
+# author: Randy Swaty
+# date: 2022-08-03
+# output: png
+# ---
 
 ## load libraries
 library(tidyverse)
