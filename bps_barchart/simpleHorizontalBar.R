@@ -1,8 +1,11 @@
+# ---
+# title: simple bar chart - top 10 bps
+# author: Randy Swaty
+# date: '2022-07-11'
+# output: png
+# ---
 
-
-## simple bar chart
 library(tidyverse)
-
 
 # read bps attribute table .csv and summarize
 bpsname <- read.csv(file = "bps_barchart/bps_aoi_attributes.csv") %>%
